@@ -40,11 +40,7 @@ Este análisis fue realizado con las siguientes bibliotecas de Python:
 * `seaborn`
 * `json`
 
-Puedes instalar las dependencias necesarias con el siguiente comando:
 
-```bash
-pip install -r requirements.txt
-```
 
 ## Instrucciones de Uso
 
