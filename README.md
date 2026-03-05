@@ -1,9 +1,5 @@
 
-# Análisis de Deserción de Clientes (Churn) en TelecomX
-
-Este notebook realiza un análisis detallado sobre los factores que impulsan la pérdida de clientes (Churn) en TelecomX utilizando el conjunto de datos **TelecomX_Data.json**. El objetivo es identificar patrones críticos y proporcionar recomendaciones que ayuden a mejorar las estrategias de retención de clientes.
-
-## Objetivo del Proyecto
+# Objetivo del Proyecto
 
 Este proyecto tiene como objetivo transformar los datos crudos en información estratégica para comprender los motivos de la deserción de clientes y ofrecer recomendaciones basadas en datos para mejorar la retención. A través de este análisis, se busca ayudar a la compañía a mitigar la pérdida de clientes, especialmente durante los primeros meses de suscripción.
 
